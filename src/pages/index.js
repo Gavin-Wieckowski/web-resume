@@ -27,6 +27,7 @@ export default function Home() {
           </li>
           <li><Link href="#location">Location</Link></li>
           <li><Link href="#contact">Contact Me</Link></li>
+          <li><Link href="/GAVIN WIECKOWSKI - Resume (No Sensitive Info).pdf">Resume</Link></li>
         </ul>
       </aside>
       <main>
